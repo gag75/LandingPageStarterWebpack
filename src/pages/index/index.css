@@ -1,0 +1,13 @@
+body {
+  background: url('./imagesPage/background.jpg') no-repeat;
+}
+
+.body {
+  &__element {
+    color: red;
+  }
+
+  &__element2 {
+    color: green;
+  }
+}
